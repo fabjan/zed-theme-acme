@@ -1,0 +1,7 @@
+id = "theme-acme"
+name = "Acme Theme"
+version = "1.0.0"
+schema_version = 1
+authors = ["Fabian Bergström"]
+description = "Color theme using the Acme colors"
+repository = "https://github.com/fabjan/zed-theme-acme"
