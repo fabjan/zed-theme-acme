@@ -53,7 +53,7 @@
         "hidden": null,
         "hidden.background": null,
         "hidden.border": null,
-        "hint": null,
+        "hint": "#99994c",
         "hint.background": "#eaffff",
         "hint.border": "#9eeeee",
         "icon": null,
